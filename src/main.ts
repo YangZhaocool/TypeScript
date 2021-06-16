@@ -1,2 +1,2 @@
-import "./03-多态";
-document.write("????1111");
+import "./01-泛型";
+document.write("????");
