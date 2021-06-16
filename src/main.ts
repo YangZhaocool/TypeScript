@@ -1,2 +1,2 @@
-import "./02-多个泛型参数的函数";
+import "./05-泛型的约束";
 document.write("????");
