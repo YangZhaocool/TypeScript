@@ -1,2 +1,2 @@
-import "./05-泛型的约束";
+import "./02-内置对象";
 document.write("????");
